@@ -21,7 +21,7 @@
 						<div class="content">
 							<div class="inner">
 								{{-- <h1>By Hansens</h1> --}}
-								<img src="{{ asset('storage/img/logo.png') }}" alt="" class="logo-responsive">
+								<img src="{{ asset('assets/img/logo-hvid.png') }}" alt="" class="logo-responsive" style="opacity: 0.7;">
 
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit <br> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
 							</div>
@@ -78,7 +78,7 @@
 							<article id="kontakt">
 								<h2 class="major">Kontakt</h2>
 								<div class="">
-									<img src="{{ asset('storage/img/logo.png') }}" alt="" class="logo-responsive">
+									<img src="{{ asset('assets/img/logo-hvid.png') }}" alt="" class="logo-responsive" style="opacity:0.7;">
 
 								</div>
 
