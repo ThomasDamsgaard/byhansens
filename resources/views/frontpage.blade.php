@@ -69,7 +69,7 @@
 						<!-- Om -->
 							<article id="om">
 								<h2 class="major">Om os</h2>
-								<span class="image main"><img src="{{ asset('assets/img/image00017.jpeg') }}" alt="" style="max-width: 300px;"/></span>
+								<span class="image main"><img src="{{ asset('assets/img/image00003.jpeg') }}" alt="" style="max-width: 300px;"/></span>
 								<p>Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent urna nisi, fringila lorem et vehicula lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices. Aliquam libero et malesuada fames ac ante ipsum primis in faucibus. Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit amet.</p>
 							</article>
 						<!-- Om -->
@@ -99,18 +99,22 @@
 											<p>
 												Martin Hansen
 												<br>
+												Stifter
+												<br>
 												Produktansvarlig
 												<br>
-												<a href="mailto:">Mail</a>
+												<a href="mailto:martin@byhansens.com">Mail</a>
 											</p>
 										</div>
 										<div>
 											<p>
 												Benjamin Hansen
 												<br>
+												Stifter
+												<br>
 												Salgsansvarlig
 												<br>
-												<a href="mailto:">Mail</a>
+												<a href="mailto:benjamin@byhansens.com">Mail</a>
 											</p>
 										</div>
 									</div>
