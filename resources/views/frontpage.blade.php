@@ -77,12 +77,49 @@
 						<!-- Kontakt -->
 							<article id="kontakt">
 								<h2 class="major">Kontakt</h2>
-								<div class="">
-									<img src="{{ asset('assets/img/logo-hvid.png') }}" alt="" class="logo-responsive" style="opacity:0.7;">
+								<span class="image main"><img src="{{ asset('assets/img/image00017.jpeg') }}" alt="" style="max-width: 400px;"/></span>
 
-								</div>
+								{{-- <div style="display:flex; justify-content: center">
 
-								<form method="post" action="#">
+									<div class="">
+										<p>
+											By Hansens Chokolade
+											<br>
+											Hansensvej 8
+											<br>
+											5000 Odense C
+										</p>
+
+									</div>
+								</div> --}}
+
+
+									<div style="display:flex; justify-content: space-evenly">
+										<div>
+											<p>
+												Martin Hansen
+												<br>
+												Produktansvarlig
+												<br>
+												<a href="mailto:">Mail</a>
+											</p>
+										</div>
+										<div>
+											<p>
+												Benjamin Hansen
+												<br>
+												Salgsansvarlig
+												<br>
+												<a href="mailto:">Mail</a>
+											</p>
+										</div>
+									</div>
+
+
+
+
+								{{-- <form method="POST" action="{{ route('contact.send') }}">
+									@csrf
 									<div class="fields">
 										<div class="field half">
 											<label for="name">Navn</label>
@@ -95,13 +132,15 @@
 										<div class="field">
 											<label for="message">Besked</label>
 											<textarea name="message" id="message" rows="4"></textarea>
+											@captcha
 										</div>
 									</div>
 									<ul class="actions">
 										<li><input type="submit" value="Send Besked" class="primary" /></li>
 										<li><input type="reset" value="Nulstil" /></li>
 									</ul>
-								</form>
+								</form> --}}
+
 								<ul class="icons">
 									<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 									<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
