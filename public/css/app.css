@@ -216,7 +216,7 @@ body,
 input,
 select,
 textarea {
-  color: #ffffff;
+  color: #F5F8FA;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
   font-size: 1rem;
@@ -1621,3 +1621,10 @@ body.is-preload #footer {
   opacity: 0;
 }
 
+/* Staff */
+.staff {
+  display:flex;
+  justify-content:space-evenly;
+  -webkit-align-items: center;
+  align-items: center;
+}
