@@ -66,7 +66,7 @@
 									<span><b><i>Salt</i></b></span> hører til i al god madlavning, og også i vores Chickpea Cubes. Med bare en knivspids af det allestedsnærværende mineral forstærkes det samlede smagsindtryk af vores råvarer, så smagen løfter sig til et helt nyt niveau.
 								</p>
 								<p>
-									<span><b><i>Salt</i></b></span> er et lille vidundermiddel fra den canadiske natur. Det naturlige sødemiddel bliver kogt ind til en lind sirup, som delvist giver en velafbalanceret sødme til vores masse og samtidig virker konserverende, så vi ikke behøver tilsætte kunstige konserveringsmidler.
+									<span><b><i>Ahornsirup</i></b></span> er et lille vidundermiddel fra den canadiske natur. Det naturlige sødemiddel bliver kogt ind til en lind sirup, som delvist giver en velafbalanceret sødme til vores masse og samtidig virker konserverende, så vi ikke behøver tilsætte kunstige konserveringsmidler.
 								</p>
 								<p>
 									<span><b><i>Kokosolie</i></b></span> er med til at give vores Chickpea Cubes deres bløde struktur, idet den smeltede olie nemt fordeles og effektivt holder sammen på alle råvarerne, efterhånden som massen får lov til at køle af.
@@ -94,71 +94,62 @@
 								<h2 class="major">Kontakt</h2>
 								<p>Vi arbejder hele tiden på at udvikle os og tager derfor meget gerne imod både ris og ros såvel som nye idéer.</p>
 								<span class="image main"><img src="{{ asset('assets/img/image00017.jpeg') }}" alt="" style="max-width: 400px;"/></span>
-							
-									<hr>
+								<div class="staff">
+									<div>
+										<p>
+											Martin Hansen
+											<br>
+											Stifter
+											<br>
+											Produktansvarlig
+										</p>
+									</div>
+									<div>
+										<ul class="icons">
+											<li><a href="mailto:martin@byhansens.com" class="icon fa-at"><span class="label">Twitter</span></a></li>
+											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										</ul>
+									</div>
+								</div>
 
-										<div class="staff">
-											<div>
-												<p style="margin: 0;">
-													Martin Hansen
-													<br>
-													Stifter
-													<br>
-													Produktansvarlig
-												</p>
-											</div>
-											<div>
-												<ul class="icons">
-													<li><a href="mailto:martin@byhansens.com" class="icon fa-at"><span class="label">Twitter</span></a></li>
-													<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-													<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-												</ul>
-											</div>
-										</div>
+								<div class="staff">
+									<div>
+										<p>
+											Benjamin Hansen
+											<br>
+											Stifter
+											<br>
+											Salgsansvarlig
+										</p>
+									</div>
+									<div>
+										<ul class="icons">
+											<li><a href="mailto:benjamin@byhansens.com" class="icon fa-at"><span class="label">Twitter</span></a></li>
+											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										</ul>
+									</div>
+								</div>
 
-										<hr>
-
-										<div class="staff">
-											<div>
-												<p style="margin: 0;">
-													Benjamin Hansen
-													<br>
-													Stifter
-													<br>
-													Salgsansvarlig
-												</p>
-											</div>
-											<div>
-												<ul class="icons">
-													<li><a href="mailto:benjamin@byhansens.com" class="icon fa-at"><span class="label">Twitter</span></a></li>
-													<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-													<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-												</ul>
-											</div>
-										</div>
-
-										<hr>
-
-										<div class="staff">
-											<div>
-												<p style="margin: 0;">
-													Michael Larsen
-													<br>
-													Stifter
-													<br>
-													Kvalitetsansvarlig
-												</p>
-											</div>
-											<div>
-												<ul class="icons">
-													<li><a href="mailto:michael@byhansens.com" class="icon fa-at"><span class="label">Twitter</span></a></li>
-													<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-													<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-												</ul>
-											</div>
-										</div>
-
-										<hr>
+								<div class="staff">
+									<div>
+										<p>
+											Michael Larsen
+											<br>
+											Stifter
+											<br>
+											Produktansvarlig
+										</p>
+									</div>
+									<div>
+										<ul class="icons">
+											<li><a href="mailto:michael@byhansens.com" class="icon fa-at"><span class="label">Twitter</span></a></li>
+											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+										</ul>
+									</div>
+								</div>
 
 								{{-- <ul class="icons">
 									<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
