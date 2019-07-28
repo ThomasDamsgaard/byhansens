@@ -4,9 +4,34 @@
 		<title>Chokolade ByHansens</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="csrf-token" content="{{ csrf_token() }}">
 		<link rel="stylesheet" href="{{ asset('css/app.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}">
 		<noscript><link rel="stylesheet" href="{{ asset('css/noscripts.css') }}" /></noscript>
+
+		<script type="text/javascript">
+        function callbackThen(response){
+            // read HTTP status
+            console.log(response.status);
+
+            // read Promise object
+            response.json().then(function(data){
+                console.log(data);
+            });
+        }
+        function callbackCatch(error){
+            console.error('Error:', error)
+        }
+    </script>
+
+		{!!
+			htmlScriptTagJsApiV3([
+        'action' => 'homepage',
+        'callback_then' => 'callbackThen',
+        'callback_catch' => 'callbackCatch'
+      ])
+		!!}
+
 	</head>
 	<body class="is-preload">
 
@@ -15,19 +40,14 @@
 
 				<!-- Header -->
 					<header id="header">
-						{{-- <div class="logo">
-							<img src="{{ asset('storage/img/logo.png') }}" alt="" style="width: 100%; height: auto;">
-						</div> --}}
 						<div class="content">
 							<div class="inner">
 								{{-- <h1>By Hansens</h1> --}}
 								<img src="{{ asset('assets/img/logo-hvid.png') }}" alt="" class="logo-responsive" style="opacity: 0.7;">
-
 								<p>
 									Velkommen til en verden af søde og smagfulde snacks fyldt med gode og nærende råvarer.<br>
 									Her er alt lavet på naturlige ingredienser, der er til at forstå.
 								</p>
-
 							</div>
 						</div>
 						<nav>
@@ -137,8 +157,6 @@
 										<p>
 											Michael Larsen
 											<br>
-											Stifter
-											<br>
 											Produktansvarlig
 										</p>
 									</div>
@@ -172,12 +190,60 @@
 		<!-- BG -->
 			<div id="bg"></div>
 
+			<div class="modal" id="popup">
+			  <div class="modal-content">
+					<div class="modal-box">
+						<p>Vi er i fuld gang med at udvikle produktet. Hør mere om dette ved at tilmelde dig vores mailliste.<br>Vi hader også spam og beskytter selvfølgelig dine data.</p>
+						<form action="{{ route('email.subscription')}}" method="post">
+							@csrf
+							<div class="fields">
+								<div class="field half">
+									<label for="firstname">Fornavn</label>
+									<input type="text" name="firstname" id="firstname" required>
+								</div>
+								<div class="field half">
+									<label for="lastname">Efternavn</label>
+									<input type="text" name="lastname" id="lastname" required>
+								</div>
+								<div class="field">
+									<label for="email">Email</label>
+									<input type="email" name="email" id="email" required>
+								</div>
+							</div>
+							<ul class="actions">
+								<li><input type="submit" value="Ja tak - Tilmeld mig" class="primary"></li>
+								<li><input type="button" value="Ikke denne gang" id="close"></li>
+							</ul>
+						</form>
+					</div>
+			  </div>
+			</div>
+
+
 		<!-- Scripts -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
-			<script src="{{ asset('js/browser.min.js') }}"></script>
-			<script src="{{ asset('js/breakpoints.min.js') }}"></script>
-			<script src="{{ asset('js/util.js') }}"></script>
-			<script src="{{ asset('js/main.js') }}"></script>
+		<script src="{{ asset('js/browser.min.js') }}"></script>
+		<script src="{{ asset('js/breakpoints.min.js') }}"></script>
+		<script src="{{ asset('js/util.js') }}"></script>
+		<script src="{{ asset('js/main.js') }}"></script>
+		<script type="text/javascript">
+		$(document).ready(function() {
+			'use strict'
+
+			if (localStorage.getItem('state') == null) {
+				let state = setTimeout(function () {
+					$('#popup').addClass('is-active');
+					localStorage.setItem('state', 'true');
+				}, 10000);
+			}
+
+
+				$('#close').click(function(event) {
+					event.preventDefault;
+					$('#popup').fadeOut()
+				});
+			});
+		</script>
 
 	</body>
 </html>

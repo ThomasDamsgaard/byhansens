@@ -1654,3 +1654,48 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+		/* Staff */
+		.staff {
+		  display:flex;
+		  justify-content:space-evenly;
+		  -webkit-align-items: center;
+		  align-items: center;
+		}
+
+		/* Modal */
+		.modal {
+		    align-items: center;
+		    display: none;
+		    flex-direction: column;
+		    justify-content: center;
+		    overflow: hidden;
+		    position: fixed;
+		    z-index: 40;
+				bottom: 0;
+				left: 0;
+				position: absolute;
+				right: 0;
+				top: 0;
+				background-color: rgba(10,10,10,.86);
+		}
+
+		.modal.is-active {
+		    display: flex;
+		}
+
+		.modal-content {
+		    margin: 0 20px;
+		    max-height: calc(100vh - 160px);
+		    overflow: auto;
+		    position: relative;
+		    width: 100%
+		}
+
+		@media screen and (min-width: 769px),print {
+		    .modal-content {
+		        margin:0 auto;
+		        max-height: calc(100vh - 40px);
+		        width: 640px
+		    }
+		}
