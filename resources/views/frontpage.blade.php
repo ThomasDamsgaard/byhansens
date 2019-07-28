@@ -9,6 +9,55 @@
     <link rel="stylesheet" href="{{ asset('css/font-awesome.min.css') }}">
 		<noscript><link rel="stylesheet" href="{{ asset('css/noscripts.css') }}" /></noscript>
 
+		<style media="screen">
+		.loader {
+width: 100px;
+height: 80px;
+position: absolute;
+top: 0; right: 0; left: 0; bottom: 0;
+margin: auto;
+}
+.loader .image {
+width: 100px;
+height: 160px;
+font-size: 40px;
+text-align: center;
+transform-origin: bottom center;
+animation: 3s rotate infinite;
+opacity: 0;
+}
+.loader span {
+display: block;
+width: 100%;
+text-align: center;
+position: absolute;
+bottom: 0;
+}
+
+@keyframes rotate{
+0% {
+	transform: rotate(90deg);
+}
+10% {
+	opacity: 0;
+}
+35% {
+	transform: rotate(0deg);
+	opacity: 1;
+}
+65% {
+	transform: rotate(0deg);
+	opacity: 1;
+}
+80% {
+	opacity: 0;
+}
+100% {
+	transform: rotate(-90deg);
+}
+}
+		</style>
+
 		<script type="text/javascript">
         function callbackThen(response){
             // read HTTP status
@@ -35,8 +84,17 @@
 	</head>
 	<body class="is-preload">
 
+
+
 		<!-- Wrapper -->
 			<div id="wrapper">
+
+				<div class="loader">
+		  <div class="image">
+		    <i class="fas fa-cookie-bite"></i>
+		  </div>
+		  <span></span>
+		</div>
 
 				<!-- Header -->
 					<header id="header">
@@ -190,35 +248,35 @@
 		<!-- BG -->
 			<div id="bg"></div>
 
-			<div class="modal" id="popup">
-			  <div class="modal-content">
-					<div class="modal-box">
-						<p>Vi er i fuld gang med at udvikle produktet. Hør mere om dette ved at tilmelde dig vores mailliste.<br>Vi hader også spam og beskytter selvfølgelig dine data.</p>
-						<form action="{{ route('email.subscription')}}" method="post">
-							@csrf
-							<div class="fields">
-								<div class="field half">
-									<label for="firstname">Fornavn</label>
-									<input type="text" name="firstname" id="firstname" required>
-								</div>
-								<div class="field half">
-									<label for="lastname">Efternavn</label>
-									<input type="text" name="lastname" id="lastname" required>
-								</div>
-								<div class="field">
-									<label for="email">Email</label>
-									<input type="email" name="email" id="email" required>
-								</div>
+		{{-- Modal --}}
+		<div class="modal" id="popup">
+		  <div class="modal-content">
+				<div class="modal-box">
+					<p>Vi er i fuld gang med at udvikle produktet. Hør mere om dette ved at tilmelde dig vores mailliste.<br>Vi hader også spam og beskytter selvfølgelig dine data.</p>
+					<form action="{{ route('email.subscription')}}" method="post">
+						@csrf
+						<div class="fields">
+							<div class="field half">
+								<label for="firstname">Fornavn</label>
+								<input type="text" name="firstname" id="firstname" required>
 							</div>
-							<ul class="actions">
-								<li><input type="submit" value="Ja tak - Tilmeld mig" class="primary"></li>
-								<li><input type="button" value="Ikke denne gang" id="close"></li>
-							</ul>
-						</form>
-					</div>
-			  </div>
-			</div>
-
+							<div class="field half">
+								<label for="lastname">Efternavn</label>
+								<input type="text" name="lastname" id="lastname" required>
+							</div>
+							<div class="field">
+								<label for="email">Email</label>
+								<input type="email" name="email" id="email" required>
+							</div>
+						</div>
+						<ul class="actions">
+							<li><input type="submit" value="Ja tak - Tilmeld mig" class="primary"></li>
+							<li><input type="button" value="Ikke denne gang" id="close"></li>
+						</ul>
+					</form>
+				</div>
+		  </div>
+		</div>
 
 		<!-- Scripts -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
@@ -226,24 +284,7 @@
 		<script src="{{ asset('js/breakpoints.min.js') }}"></script>
 		<script src="{{ asset('js/util.js') }}"></script>
 		<script src="{{ asset('js/main.js') }}"></script>
-		<script type="text/javascript">
-		$(document).ready(function() {
-			'use strict'
-
-			if (localStorage.getItem('state') == null) {
-				let state = setTimeout(function () {
-					$('#popup').addClass('is-active');
-					localStorage.setItem('state', 'true');
-				}, 10000);
-			}
-
-
-				$('#close').click(function(event) {
-					event.preventDefault;
-					$('#popup').fadeOut()
-				});
-			});
-		</script>
-
+		<script src="{{ asset('js/pageloader.js') }}"></script>
+		<script src="{{ asset('js/email-modal.js') }}"></script>
 	</body>
 </html>
