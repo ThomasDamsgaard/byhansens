@@ -132,7 +132,7 @@ bottom: 0;
 									<span><b><i>Peanutbutter</i></b></span> er den anden af de to bærende ingredienser i vores Chickpea Cubes, og dét er den af mange gode grunde. Først og fremmest er den fede jordnøddesmør en overset kilde til sundere fedttyper i vores hverdag. Den cremede masse har desuden også et højt indhold af protein og fibre – og så smager den selvfølgelig bare hamrende godt. Derfor har vi valgt peanutbutter som limen, der holder sammen på alle vores gode råvarer.
 								</p>
 								<p>
-									<span><b><i>Spelt</i></b></span> er populært som aldrig før, og med god grund. For selvom den klassiske hvedesort har mere end 7.000 år på bagen og dermed er én af de ældste, der findes, så har den stadig enormt gavnlige egenskaber i forhold til vores moderne livsstil. Speltflagerne i vores Chickpea Cubes bidrager med et højt indhold af fibre og proteiner, og så giver de stykkerne et dejligt bid.
+									<span><b><i>Havren</i></b></span> blev oprindeligt betragtet som en form for ukrudt på markerne blandt datidens bønder – det virker nærmest utroligt, taget i betragtning hvor meget vi bruger den herhjemme i dag! Heldigvis fik bønderne øjnene op for den hårdføre kornsort med bjælderne på allerede i bronzealderen, hvor de langsomt begyndte at undersøge dens mange muligheder. Hos By Hansens bruger vi havre i vores Chickpea Cubes for det fantastiske næringsindhold, og fordi havren trives så godt i det danske klima, så vi kan få det dyrket helt lokalt.
 								</p>
 								<p>
 									<span><b><i>Mandler</i></b></span> har været en populær snack i årevis, så lige fra starten var det oplagt for os at bruge den lille vidundernød. Også her får vores Chickpea Cubes tilført et højt indhold af proteiner og fibre, og så er mandlerne med til at give smagen sit helt særlige særpræg.
@@ -144,13 +144,16 @@ bottom: 0;
 									<span><b><i>Salt</i></b></span> hører til i al god madlavning, og også i vores Chickpea Cubes. Med bare en knivspids af det allestedsnærværende mineral forstærkes det samlede smagsindtryk af vores råvarer, så smagen løfter sig til et helt nyt niveau.
 								</p>
 								<p>
-									<span><b><i>Ahornsirup</i></b></span> er et lille vidundermiddel fra den canadiske natur. Det naturlige sødemiddel bliver kogt ind til en lind sirup, som delvist giver en velafbalanceret sødme til vores masse og samtidig virker konserverende, så vi ikke behøver tilsætte kunstige konserveringsmidler.
+									<span><b><i>Flormelis</i></b></span> er en helt fint malet form af sukkeren, der udvindes fra de danske sukkerroer fra Lolland og Falster. Med et indhold på omkring 2% stivelse er det enormt effektivt til at forhindre massen i vores Chickpea Cubes i at klumpe – og så bidrager det naturligvis med en mild sødme til produktet!
 								</p>
 								<p>
 									<span><b><i>Kokosolie</i></b></span> er med til at give vores Chickpea Cubes deres bløde struktur, idet den smeltede olie nemt fordeles og effektivt holder sammen på alle råvarerne, efterhånden som massen får lov til at køle af.
 								</p>
 								<p>
 									<span><b><i>Mørk chokolade</i></b></span> må være en lille bid af himmerige! Vi bruger chokolade med 70,5% kakao – fyldt med gode egenskaber som vitaminer, mineraler og antioxidanter. Og så går smagen helt eminent sammen med resten af vores råvarer for at skabe en fuldendt nydelse fyldt med nærende indhold.
+								</p>
+								<p>
+									<span><b><i>Glycerol</i></b></span> er en farveløs, lugtfri og sød form for alkohol – men bare rolig, du bliver ikke beruset af at spise vores Chickpea Cubes. Vi bruger blot glycerolen som en form for naturligt konserveringsmiddel i massen, så du kan stole på, at dine lækre snacks holder lige så længe, som du kan holde fingrene fra æsken!
 								</p>
 							</article>
 						<!-- Råvarer -->
@@ -215,7 +218,7 @@ bottom: 0;
 										<p>
 											Michael Larsen
 											<br>
-											Produktansvarlig
+											Kvalitetsansvarlig
 										</p>
 									</div>
 									<div>
