@@ -111,6 +111,7 @@ bottom: 0;
 						<nav>
 							<ul>
 								<li><a href="#raavarer">Råvarer</a></li>
+								<li><a href="#produkter">Produkter</a></li>
 								<li><a href="#om-os">Om os</a></li>
 								<li><a href="#kontakt">Kontakt</a></li>
 							</ul>
@@ -119,6 +120,8 @@ bottom: 0;
 
 				<!-- Main -->
 					<div id="main">
+
+
 
 						<!-- Råvarer -->
 							<article id="raavarer">
@@ -158,6 +161,48 @@ bottom: 0;
 							</article>
 						<!-- Råvarer -->
 
+						<!-- Produkter -->
+							<article id="produkter">
+								<h2 class="major">
+									Produkter <br>
+									<span style="font-size:0.7em">- Chickpea Cubes</span>
+								</h2>
+								<div class="center">
+									<div>
+										<span class="image"><img src="{{ asset('assets/img/plain.jpg') }}" alt=""/></span>
+										<div class="center">
+											<div>
+												<h3 style="margin: 0;"><u>Plain</u></h3>
+											</div>
+										</div>
+									</div>
+								</div>
+								<hr>
+								<div class="center">
+									<div>
+										<span class="image"><img src="{{ asset('assets/img/orange.jpg') }}" alt=""/></span>
+										<div class="center">
+											<div>
+												<h3 style="margin: 0;"><u>Orange</u></h3>
+											</div>
+										</div>
+									</div>
+								</div>
+								<hr>
+								<div class="center">
+									<div>
+										<span class="image"><img src="{{ asset('assets/img/mint.jpg') }}" alt=""/></span>
+										<div class="center">
+											<div>
+												<h3 style="margin: 0;"><u>Mint</u></h3>
+											</div>
+										</div>
+									</div>
+								</div>
+
+							</article>
+						<!-- Produkter -->
+
 						<!-- Om -->
 							<article id="om-os">
 								<h2 class="major">Om os</h2>
@@ -175,7 +220,7 @@ bottom: 0;
 								<h2 class="major">Kontakt</h2>
 								<p>Vi arbejder hele tiden på at udvikle os og tager derfor meget gerne imod både ris og ros såvel som nye idéer.</p>
 								<span class="image main"><img src="{{ asset('assets/img/image00017.jpeg') }}" alt="" style="max-width: 400px;"/></span>
-								<div class="staff">
+								<div class="center">
 									<div>
 										<p>
 											Martin Hansen
@@ -194,7 +239,7 @@ bottom: 0;
 									</div>
 								</div>
 
-								<div class="staff">
+								<div class="center">
 									<div>
 										<p>
 											Benjamin Hansen
@@ -213,7 +258,7 @@ bottom: 0;
 									</div>
 								</div>
 
-								<div class="staff">
+								<div class="center">
 									<div>
 										<p>
 											Michael Larsen
