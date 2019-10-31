@@ -169,7 +169,7 @@
 								</h2>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/plain.jpg') }}" alt=""/></span>
+										<span class="image"><img src="{{ asset('assets/img/plain.jpg') }}" alt="" style="max-width:250px;"/></span>
 										<div class="center">
 											<div>
 												<h3 style="margin: 0;"><u>Plain</u></h3>
@@ -180,7 +180,7 @@
 								<hr>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/orange.jpg') }}" alt=""/></span>
+										<span class="image"><img src="{{ asset('assets/img/orange.jpg') }}" alt="" style="max-width:250px;"/></span>
 										<div class="center">
 											<div>
 												<h3 style="margin: 0;"><u>Orange</u></h3>
@@ -191,7 +191,7 @@
 								<hr>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/mint.jpg') }}" alt=""/></span>
+										<span class="image"><img src="{{ asset('assets/img/mint.jpg') }}" alt="" style="max-width:250px;"/></span>
 										<div class="center">
 											<div>
 												<h3 style="margin: 0;"><u>Mint</u></h3>
