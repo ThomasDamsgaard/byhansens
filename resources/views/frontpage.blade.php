@@ -267,23 +267,6 @@
 									</div>
 								</div>
 
-								<div class="center">
-									<div>
-										<p>
-											Michael Larsen
-											<br>
-											Kvalitetsansvarlig
-										</p>
-									</div>
-									<div>
-										<ul class="icons">
-											<li><a href="mailto:michael@byhansens.com" class="icon fa-at"><span class="label">Twitter</span></a></li>
-											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-										</ul>
-									</div>
-								</div>
-
 								{{-- <ul class="icons">
 									<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
 									<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
