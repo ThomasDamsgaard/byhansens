@@ -242,8 +242,8 @@
 									<div>
 										<ul class="icons">
 											<li><a href="mailto:martin@byhansens.com" class="icon fa-at"><span class="label">Twitter</span></a></li>
-											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="https://www.facebook.com/byhansens/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="https://www.instagram.com/by.hansens/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 										</ul>
 									</div>
 								</div>
@@ -261,8 +261,8 @@
 									<div>
 										<ul class="icons">
 											<li><a href="mailto:benjamin@byhansens.com" class="icon fa-at"><span class="label">Twitter</span></a></li>
-											<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-											<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+											<li><a href="https://www.facebook.com/byhansens/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<li><a href="https://www.instagram.com/by.hansens/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
 										</ul>
 									</div>
 								</div>
