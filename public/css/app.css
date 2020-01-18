@@ -1193,7 +1193,7 @@ button {
   transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
   transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out, -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
-  background-image: url("/assets/img/bg.jpeg");
+  background-image: url("/assets/img/bg-small.jpeg");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1737,4 +1737,3 @@ body.is-preload #footer {
             transform: rotate(360deg);
   }
 }
-
