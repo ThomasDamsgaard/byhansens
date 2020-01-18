@@ -135,7 +135,7 @@
 						<!-- Råvarer -->
 							<article id="raavarer">
 								<h2 class="major">Kun naturlige råvarer</h2>
-								<span class="image main"><img src="{{ asset('assets/img/image00021.jpeg') }}" alt="" style="max-width: 300px;"/></span>
+								<span class="image main"><img src="{{ asset('assets/img/image21.jpeg') }}" alt="" style="max-width: 300px;"/></span>
 								<p><span><b><i>Vi</i></b></span> har fyldt vores produkter med de allerbedste råvarer, for at give dig det allerbedste resultat. Her kan du læse om alle vores råvarer; hvorfor vi har valgt dem, og hvorfor de er gode for dig.</p>
 								<p>
 									<span><b><i>Kikærter</i></b></span> er en fantastisk råvare med mange gode egenskaber – og de bliver kun bedre af at blive pakket ind i 70% mørk luksuschokolade! Sammen med en masse andre gode råvarer udgør kikærterne selve grundpillen i vores Chickpea Cubes. Kikærter har et højt indhold af både protein og fibre, og så er de fyldt med A, B og E-vitaminer såvel som kalium, calcium, magnesium og jern. Derfor smager vores Chickpea Cubes ikke bare fantastisk – de er faktisk også et godt supplement til din kost.
@@ -178,7 +178,7 @@
 								</h2>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/plain.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image"><img src="{{ asset('assets/img/plain-small.jpg') }}" alt="" style="max-width:250px;"/></span>
 										<div class="center">
 											<div>
 												<h3 style="margin: 0;"><u>Plain</u></h3>
@@ -189,7 +189,7 @@
 								<hr>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/orange.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image"><img src="{{ asset('assets/img/orange-small.jpg') }}" alt="" style="max-width:250px;"/></span>
 										<div class="center">
 											<div>
 												<h3 style="margin: 0;"><u>Orange</u></h3>
@@ -200,7 +200,7 @@
 								<hr>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/mint.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image"><img src="{{ asset('assets/img/mint-small.jpg') }}" alt="" style="max-width:250px;"/></span>
 										<div class="center">
 											<div>
 												<h3 style="margin: 0;"><u>Mint</u></h3>
@@ -215,7 +215,7 @@
 						<!-- Om -->
 							<article id="om-os">
 								<h2 class="major">Om os</h2>
-								<span class="image main"><img src="{{ asset('assets/img/image00003.jpeg') }}" alt="" style="max-width: 300px;"/></span>
+								<span class="image main"><img src="{{ asset('assets/img/image3.jpeg') }}" alt="" style="max-width: 300px;"/></span>
 								<p>By Hansens har en vision om at revolutionere markedet og udbrede budskabet om, at slik sagtens kan være fyldt med sunde, nærende og naturlige ingredienser, uden at de behøver at smage hverken fornuftigt eller kedeligt.</p>
 								<p>Det hele startede mellem Benjamin og Martin, som begge i lang tid havde gået med en drøm om at starte egen virksomhed, hvor de havde helt frie tøjler til at føre deres drømme ud i livet. Det skulle vise sig, at de to var hinandens perfekte samarbejdspartnere, så der gik ikke længe, før By Hansens blev til. Og så tog tingene fart – troede de.</p>
 								<p>For den danske fødevarebranche er en kompliceret størrelse fyldt med reguleringer og lovgivning, som det kan være svært at finde hverken hoved eller hale i. De to måtte have hjælp og indgik derfor hurtigt samarbejde med Michael Larsen, som står bag flødebollerne fra ”Ærlig”. Han havde den indsigt i branchen, som de andre manglede, og på den måde blev to til tre. Og den idérige trio er nu klar til at vende hele branchen på hovedet!</p>
@@ -228,7 +228,7 @@
 							<article id="kontakt">
 								<h2 class="major">Kontakt</h2>
 								<p>Vi arbejder hele tiden på at udvikle os og tager derfor meget gerne imod både ris og ros såvel som nye idéer.</p>
-								<span class="image main"><img src="{{ asset('assets/img/image00017.jpeg') }}" alt="" style="max-width: 400px;"/></span>
+								<span class="image main"><img src="{{ asset('assets/img/image17.jpeg') }}" alt="" style="max-width: 400px;"/></span>
 								<div class="center">
 									<div>
 										<p>
