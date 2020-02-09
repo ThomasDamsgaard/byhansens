@@ -122,6 +122,7 @@
 								<li><a href="#raavarer">Råvarer</a></li>
 								<li><a href="#produkter">Produkter</a></li>
 								<li><a href="#om-os">Om os</a></li>
+								<li><a href="#forhandlere">Forhandlere</a></li>
 								<li><a href="#kontakt">Kontakt</a></li>
 							</ul>
 						</nav>
@@ -223,6 +224,17 @@
 								<p><span><b><i>Martin Hansen</i></b></span> er uddannet bager og har efterfølgende videreuddannet sig til fødevareteknolog. I dag arbejder han med udvikling af fødevarer indenfor bageribranchen.</p>
 							</article>
 						<!-- Om -->
+
+						<!-- Forhandlere -->
+							<article id="forhandlere">
+								<h2 class="major">Forhandlere</h2>
+								<p>Du kan støde på vores Chickpea Cubes disse steder.</p>
+								<p><span><b><i>Analog</i></b></span><br>Albanigade 54c, Odense C.</p>
+								<p><span><b><i>The Food Stall - Magasin</i></b></span><br>Vestergade 20, Odense C</p>
+								<p><span><b><i>Marys Coffee & Sandwich</i></b></span><br>Østre Stationsvej 6, Odense C</p>
+								<p><span><b><i>Let's Be Frank - Arkaden</i></b></span><br>Vestergade 68, Odense C</p>
+							</article>
+						<!-- Forhandlere -->
 
 						<!-- Kontakt -->
 							<article id="kontakt">
