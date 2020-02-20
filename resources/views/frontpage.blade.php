@@ -239,7 +239,6 @@
 								<p><span><b><i>Frk. Jensens Café og Spisehus</i></b></span><br>Mellemgade 10, Fåborg</p>
 								<p><span><b><i>Café Aroma</i></b></span><br>Korsgade 17, Svendborg</p>
 								<p><span><b><i>Byens Gårdbutik</i></b></span><br>Vestergade 25, Svendborg</p>
-								<p><span><b><i>Byens Gårdbutik</i></b></span><br>Vestergade 25, Svendborg</p>
 								<p><span><b><i>Brenderuphus</i></b></span><br>Middelfartvej 217, Brenderup</p>
 							</article>
 						<!-- Forhandlere -->
