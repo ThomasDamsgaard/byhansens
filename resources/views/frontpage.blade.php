@@ -234,9 +234,13 @@
 								<p><span><b><i>Marys Coffee & Sandwich</i></b></span><br>Østre Stationsvej 6, Odense C</p>
 								<p><span><b><i>Let's Be Frank - Arkaden</i></b></span><br>Vestergade 68, Odense C</p>
 								<p><span><b><i>Den Lille Smalle</i></b></span><br>Vestergade 5, Odense C</p>
+								<p><span><b><i>Nivå Gold Klub</i></b></span><br>Løvbjergårdsvej 1, Kokkedal</p>
 								<p><span><b><i>Flow Living</i></b></span><br>Torvegade 10, Fåborg</p>
 								<p><span><b><i>Frk. Jensens Café og Spisehus</i></b></span><br>Mellemgade 10, Fåborg</p>
-								<p><span><b><i>Café Aroma</i></b></span><br>Korsgade17, Svendborg</p>
+								<p><span><b><i>Café Aroma</i></b></span><br>Korsgade 17, Svendborg</p>
+								<p><span><b><i>Byens Gårdbutik</i></b></span><br>Vestergade 25, Svendborg</p>
+								<p><span><b><i>Byens Gårdbutik</i></b></span><br>Vestergade 25, Svendborg</p>
+								<p><span><b><i>Brenderuphus</i></b></span><br>Middelfartvej 217, Brenderup</p>
 							</article>
 						<!-- Forhandlere -->
 
