@@ -231,6 +231,7 @@
 								<p>Du kan støde på vores Chickpea Cubes disse steder.</p>
 								<p><span><b><i>Analog</i></b></span><br>Albanigade 54c, Odense C.</p>
 								<p><span><b><i>The Food Stall - Magasin</i></b></span><br>Vestergade 20, Odense C</p>
+								<p><span><b><i>The Food Stall</i></b></span><br>Østre Stationsvej 27, Odense C</p>
 								<p><span><b><i>Marys Coffee & Sandwich</i></b></span><br>Østre Stationsvej 6, Odense C</p>
 								<p><span><b><i>Let's Be Frank - Arkaden</i></b></span><br>Vestergade 68, Odense C</p>
 								<p><span><b><i>Den Lille Smalle</i></b></span><br>Vestergade 5, Odense C</p>
