@@ -229,6 +229,12 @@
 							<article id="forhandlere">
 								<h2 class="major">Forhandlere</h2>
 								<p>Du kan støde på vores Chickpea Cubes disse steder.</p>
+								<h3><u>Webshops</u></h3>
+
+								<p><span><b><i><a href="https://www.greenos.dk/products/byhansens-chickpea-cubes-kikaerter-slik-mix-60g">Greenos.dk</a></i></b></span></p>
+								<p><span><b><i><a href="https://www.maaltidsboxen.dk">Maaltidsboxen.dk</a></i></b></span></p>
+
+								<h3><u>Butikker</u></h3>
 								<p><span><b><i>Analog</i></b></span><br>Albanigade 54c, Odense C.</p>
 								<p><span><b><i>The Food Stall - Magasin</i></b></span><br>Vestergade 20, Odense C</p>
 								<p><span><b><i>The Food Stall</i></b></span><br>Østre Stationsvej 27, Odense C</p>
