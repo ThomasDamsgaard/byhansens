@@ -139,7 +139,7 @@
 								<span class="image main"><img src="{{ asset('assets/img/image21.jpeg') }}" alt="" style="max-width: 300px;"/></span>
 								<p><span><b><i>Vi</i></b></span> har fyldt vores produkter med de allerbedste råvarer, for at give dig det allerbedste resultat. Her kan du læse om alle vores råvarer; hvorfor vi har valgt dem, og hvorfor de er gode for dig.</p>
 								<p>
-									<span><b><i>Kikærter</i></b></span> er en fantastisk råvare med mange gode egenskaber – og de bliver kun bedre af at blive pakket ind i 70% mørk luksuschokolade! Sammen med en masse andre gode råvarer udgør kikærterne selve grundpillen i vores Chickpea Cubes. Kikærter har et højt indhold af både protein og fibre, og så er de fyldt med A, B og E-vitaminer såvel som kalium, calcium, magnesium og jern. Derfor smager vores Chickpea Cubes ikke bare fantastisk – de er faktisk også et godt supplement til din kost.
+									<span><b><i>Kikærter</i></b></span> er en fantastisk råvare med mange gode egenskaber – og de bliver kun bedre af at blive pakket ind i 59,5% mørk luksuschokolade! Sammen med en masse andre gode råvarer udgør kikærterne selve grundpillen i vores Chickpea Cubes. Kikærter har et højt indhold af både protein og fibre, og så er de fyldt med A, B og E-vitaminer såvel som kalium, calcium, magnesium og jern. Derfor smager vores Chickpea Cubes ikke bare fantastisk – de er faktisk også et godt supplement til din kost.
 								</p>
 								<p>
 									<span><b><i>Peanutbutter</i></b></span> er den anden af de to bærende ingredienser i vores Chickpea Cubes, og dét er den af mange gode grunde. Først og fremmest er den fede jordnøddesmør en overset kilde til sundere fedttyper i vores hverdag. Den cremede masse har desuden også et højt indhold af protein og fibre – og så smager den selvfølgelig bare hamrende godt. Derfor har vi valgt peanutbutter som limen, der holder sammen på alle vores gode råvarer.
@@ -163,7 +163,7 @@
 									<span><b><i>Kokosolie</i></b></span> er med til at give vores Chickpea Cubes deres bløde struktur, idet den smeltede olie nemt fordeles og effektivt holder sammen på alle råvarerne, efterhånden som massen får lov til at køle af.
 								</p>
 								<p>
-									<span><b><i>Mørk chokolade</i></b></span> må være en lille bid af himmerige! Vi bruger chokolade med 70,5% kakao – fyldt med gode egenskaber som vitaminer, mineraler og antioxidanter. Og så går smagen helt eminent sammen med resten af vores råvarer for at skabe en fuldendt nydelse fyldt med nærende indhold.
+									<span><b><i>Mørk chokolade</i></b></span> må være en lille bid af himmerige! Vi bruger chokolade med 59,5% kakao – fyldt med gode egenskaber som vitaminer, mineraler og antioxidanter. Og så går smagen helt eminent sammen med resten af vores råvarer for at skabe en fuldendt nydelse fyldt med nærende indhold.
 								</p>
 								<p>
 									<span><b><i>Glycerol</i></b></span> er en farveløs, lugtfri og sød form for alkohol – men bare rolig, du bliver ikke beruset af at spise vores Chickpea Cubes. Vi bruger blot glycerolen som en form for naturligt konserveringsmiddel i massen, så du kan stole på, at dine lækre snacks holder lige så længe, som du kan holde fingrene fra æsken!
@@ -228,7 +228,9 @@
 						<!-- Forhandlere -->
 							<article id="forhandlere">
 								<h2 class="major">Forhandlere</h2>
-								<p>Du kan støde på vores Chickpea Cubes disse steder.</p>
+								<p>Kunne du tænke dig at forhandle vores Chickpea Cubes?<br>
+									Skriv endelig en mail til : <a href="mailto:benjamin@byhansens.com">benjamin@byhansens.dk</a></p>
+								<p>Du kan støde på vores Chickpea Cubes disse steder:</p>
 								<h3><u>Webshops</u></h3>
 
 								<p><span><b><i><a href="https://www.greenos.dk/products/byhansens-chickpea-cubes-kikaerter-slik-mix-60g">Greenos.dk</a></i></b></span></p>
@@ -236,7 +238,7 @@
 
 								<h3><u>Butikker</u></h3>
 								<p><span><b><i>Analog</i></b></span><br>Albanigade 54c, Odense C.</p>
-								<p><span><b><i>Café Nordfreds</i></b></span><br>Overgade 25, Odense C.</p>
+								<p><span><b><i>Café Nordfreds</i></b></span><br>Overgade 25a, Odense C.</p>
 								<p><span><b><i>Marys Coffee & Sandwich</i></b></span><br>Østre Stationsvej 6, Odense C</p>
 								<p><span><b><i>Let's Be Frank - Arkaden</i></b></span><br>Vestergade 68, Odense C</p>
 								<p><span><b><i>Den Lille Smalle</i></b></span><br>Vestergade 5, Odense C</p>
