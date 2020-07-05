@@ -237,6 +237,7 @@
 								<p><span><b><i><a href="https://www.maaltidsboxen.dk">Maaltidsboxen.dk</a></i></b></span></p>
 
 								<h3><u>Butikker</u></h3>
+								<p><span><b><i>Nelle's - Filosoffen</i></b></span><br>Filosofgangen 32Z, Odense C.</p>
 								<p><span><b><i>Analog</i></b></span><br>Albanigade 54c, Odense C.</p>
 								<p><span><b><i>Café Nordfreds</i></b></span><br>Overgade 25a, Odense C.</p>
 								<p><span><b><i>Marys Coffee & Sandwich</i></b></span><br>Østre Stationsvej 6, Odense C</p>
