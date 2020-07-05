@@ -124,6 +124,7 @@
 								<li><a href="#om-os">Om os</a></li>
 								<li><a href="#forhandlere">Forhandlere</a></li>
 								<li><a href="#kontakt">Kontakt</a></li>
+								<li><a href="https://byhansens.myshopify.com" target="_blank">Webshop</a></li>
 							</ul>
 						</nav>
 					</header>
