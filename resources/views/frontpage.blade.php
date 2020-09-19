@@ -234,7 +234,6 @@
 								<p>Du kan støde på vores Chickpea Cubes disse steder:</p>
 								<h3><u>Webshops</u></h3>
 
-								<p><span><b><i><a href="https://www.greenos.dk/products/byhansens-chickpea-cubes-kikaerter-slik-mix-60g">Greenos.dk</a></i></b></span></p>
 								<p><span><b><i><a href="https://www.maaltidsboxen.dk">Maaltidsboxen.dk</a></i></b></span></p>
 
 								<h3><u>Butikker</u></h3>
@@ -245,6 +244,9 @@
 								<p><span><b><i>Let's Be Frank - Arkaden</i></b></span><br>Vestergade 68, Odense C</p>
 								<p><span><b><i>Den Lille Smalle</i></b></span><br>Vestergade 5, Odense C</p>
 								<p><span><b><i>Nivå Golf Klub</i></b></span><br>Løvbjergårdsvej 1, Kokkedal</p>
+								<p><span><b><i>Royal Souvenir</i></b></span><br>Bredgade 47, København</p>
+								<p><span><b><i>iBagel</i></b></span><br>Vesterbrogade 6D, København</p>
+								<p><span><b><i>Café Sweet Surrender</i></b></span><br>Dybbølsgade 49, København</p>
 								<p><span><b><i>Flow Living</i></b></span><br>Torvegade 10, Fåborg</p>
 								<p><span><b><i>Café Aroma</i></b></span><br>Korsgade 17, Svendborg</p>
 								<p><span><b><i>Byens Gårdbutik</i></b></span><br>Vestergade 25, Svendborg</p>
