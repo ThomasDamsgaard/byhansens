@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151526444-1"></script>
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-0XVHWKKGDM"></script>
 		<script>
 		  window.dataLayer = window.dataLayer || [];
 		  function gtag(){dataLayer.push(arguments);}
 		  gtag('js', new Date());
 
-		  gtag('config', 'UA-151526444-1');
+		  gtag('config', 'G-0XVHWKKGDM');
 		</script>
 
 		<title>Chokolade ByHansens</title>
