@@ -319,7 +319,7 @@
 			<div id="bg"></div>
 
 		{{-- Modal --}}
-		<div class="modal" id="popup">
+		{{-- <div class="modal" id="popup">
 		  <div class="modal-content">
 				<div class="modal-box">
 					<p>Vi er i fuld gang med at udvikle produktet. Hør mere om dette ved at tilmelde dig vores mailliste.<br>Vi hader også spam og beskytter selvfølgelig dine data.</p>
@@ -346,7 +346,7 @@
 					</form>
 				</div>
 		  </div>
-		</div>
+		</div> --}}
 
 		<!-- Scripts -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
@@ -355,6 +355,6 @@
 		<script src="{{ asset('js/util.js') }}"></script>
 		<script src="{{ asset('js/main.js') }}"></script>
 		<script src="{{ asset('js/pageloader.js') }}"></script>
-		<script src="{{ asset('js/email-modal.js') }}"></script>
+		{{-- <script src="{{ asset('js/email-modal.js') }}"></script> --}}
 	</body>
 </html>
