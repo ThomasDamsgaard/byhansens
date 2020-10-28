@@ -235,13 +235,16 @@
 								<h3><u>Webshops</u></h3>
 
 								<p><span><b><i><a href="https://www.maaltidsboxen.dk">Maaltidsboxen.dk</a></i></b></span></p>
+								<p><span><b><i><a href="http://www.finka-gavekurve.dk">Finka-gavekurve.dk</a></i></b></span></p>
 
 								<h3><u>Butikker</u></h3>
 								<p><span><b><i>Nelle's - Filosoffen</i></b></span><br>Filosofgangen 32Z, Odense C.</p>
+								<p><span><b><i>Nelle's - Pantheonsgade</i></b></span><br>Rosenbæk Torv 1, Odense C.</p>
+								<p><span><b><i>Nelle's - Overgade</i></b></span><br>Overgade 21A, Odense C.</p>
 								<p><span><b><i>Analog</i></b></span><br>Albanigade 54c, Odense C.</p>
 								<p><span><b><i>Café Nordfreds</i></b></span><br>Overgade 25a, Odense C.</p>
 								<p><span><b><i>Marys Coffee & Sandwich</i></b></span><br>Østre Stationsvej 6, Odense C</p>
-								<p><span><b><i>Let's Be Frank - Arkaden</i></b></span><br>Vestergade 68, Odense C</p>
+								<p><span><b><i>Mr. Torp</i></b></span><br>Vintapperstræde, Odense C</p>
 								<p><span><b><i>Den Lille Smalle</i></b></span><br>Vestergade 5, Odense C</p>
 								<p><span><b><i>Nivå Golf Klub</i></b></span><br>Løvbjergårdsvej 1, Kokkedal</p>
 								<p><span><b><i>Royal Souvenir</i></b></span><br>Bredgade 47, København</p>
@@ -251,6 +254,7 @@
 								<p><span><b><i>Café Aroma</i></b></span><br>Korsgade 17, Svendborg</p>
 								<p><span><b><i>Byens Gårdbutik</i></b></span><br>Vestergade 25, Svendborg</p>
 								<p><span><b><i>Brenderuphus</i></b></span><br>Middelfartvej 217, Brenderup</p>
+								<p><span><b><i>Janne Jaaks</i></b></span><br>Klitheden Syd 30, Blokhus</p>
 							</article>
 						<!-- Forhandlere -->
 
