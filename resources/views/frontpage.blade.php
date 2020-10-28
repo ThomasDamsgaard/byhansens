@@ -102,7 +102,7 @@
 		  <div class="image">
 		    <i class="fas fa-cookie-bite"></i>
 		  </div>
-		  <span></span>
+		  {{-- <span></span> --}}
 		</div>
 
 				<!-- Header -->
@@ -354,7 +354,7 @@
 		<script src="{{ asset('js/breakpoints.min.js') }}"></script>
 		<script src="{{ asset('js/util.js') }}"></script>
 		<script src="{{ asset('js/main.js') }}"></script>
-		<script src="{{ asset('js/pageloader.js') }}"></script>
+		{{-- <script src="{{ asset('js/pageloader.js') }}"></script> --}}
 		{{-- <script src="{{ asset('js/email-modal.js') }}"></script> --}}
 	</body>
 </html>
