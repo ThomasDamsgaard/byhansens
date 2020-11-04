@@ -107,6 +107,16 @@
 
 				<!-- Header -->
 					<header id="header">
+						<nav>
+							<ul>
+								<li><a href="https://byhansens.myshopify.com" target="_blank">Webshop</a></li>
+								<li><a href="#produkter">Produkter</a></li>
+								<li><a href="#raavarer">Råvarer</a></li>
+								<li><a href="#kontakt">Kontakt</a></li>
+								<li><a href="#om-os">Om os</a></li>
+								{{-- <li><a href="#forhandlere">Forhandlere</a></li> --}}
+							</ul>
+						</nav>
 						<div class="content">
 							<div class="inner">
 								{{-- <h1>By Hansens</h1> --}}
@@ -115,18 +125,13 @@
 									Velkommen til en verden af søde og smagfulde snacks fyldt med gode og nærende råvarer.<br>
 									Her er alt lavet på naturlige ingredienser, der er til at forstå.
 								</p>
+								<ul class="icons">
+									<li><a href="https://www.facebook.com/byhansens/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+									<li><a href="https://www.instagram.com/by.hansens/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+								</ul>
 							</div>
 						</div>
-						<nav>
-							<ul>
-								<li><a href="#raavarer">Råvarer</a></li>
-								<li><a href="#produkter">Produkter</a></li>
-								<li><a href="#om-os">Om os</a></li>
-								{{-- <li><a href="#forhandlere">Forhandlere</a></li> --}}
-								<li><a href="#kontakt">Kontakt</a></li>
-								<li><a href="https://byhansens.myshopify.com" target="_blank">Webshop</a></li>
-							</ul>
-						</nav>
+
 					</header>
 
 				<!-- Main -->
@@ -180,37 +185,59 @@
 								</h2>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/plain-small.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image"><img src="{{ asset('assets/img/natural.jpg') }}" alt="" style="max-width:250px;"/></span>
 										<div class="center">
 											<div>
-												<h3 style="margin: 0;"><u>Plain</u></h3>
+												<h3><u>Original</u></h3>
 											</div>
 										</div>
 									</div>
+								</div>
+								<div>
+									<p>Som navnet antyder, er det her stykket, hvor det hele startede. Den rene Chickpea Cube med en cremet konsistens, en let smag af nødder og masser af umami. Et herligt stykke hverdagskonfekture, som du roligt kan spise en mere af.</p>
 								</div>
 								<hr>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/orange-small.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image"><img src="{{ asset('assets/img/mint.jpg') }}" alt="" style="max-width:250px;"/></span>
 										<div class="center">
 											<div>
-												<h3 style="margin: 0;"><u>Orange</u></h3>
+												<h3><u>Mint</u></h3>
 											</div>
 										</div>
 									</div>
+								</div>
+								<div>
+									<p>Prøv en Chickpea Cube med den forfriskende smag af Mint sammen med den cremede konsistens og den intense smag, der kendetegner Originalen. Et herligt stykke hverdagskonfekture, som du roligt kan spise en mere af.</p>
 								</div>
 								<hr>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/mint-small.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image"><img src="{{ asset('assets/img/orange.jpg') }}" alt="" style="max-width:250px;"/></span>
 										<div class="center">
 											<div>
-												<h3 style="margin: 0;"><u>Mint</u></h3>
+												<h3><u>Orange</u></h3>
 											</div>
 										</div>
 									</div>
 								</div>
-
+								<div>
+									<p>Intens chokolade, cremet kikærtemasse og den søde smag af appelsiner – dét er, hvad du får, når du sætter tænderne i en Chickpea Cube med smagen af Orange. Et herligt stykke hverdagskonfekture, som du roligt kan spise en mere af.</p>
+								</div>
+								<hr>
+								<div class="center">
+									<div>
+										<span class="image"><img src="{{ asset('assets/img/pistachie.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<div class="center">
+											<div>
+												<h3><u>Pistacie</u></h3>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div>
+									<p>Når du nyder en Chickpea Cube med Pistacie er det smagen af det velkendte og det eksotiske, der mødes i skøn harmoni til glæde for dine sanser. Et herligt stykke hverdagskonfekture, som du roligt kan spise en mere af.</p>
+								</div>
 							</article>
 						<!-- Produkter -->
 
@@ -315,6 +342,7 @@
 				<!-- Footer -->
 					<footer id="footer">
 						<p class="copyright">&copy; ByHansens. Kode af: <a href="https://thomasdamsgaard.dk" target="_blank">Thomas Damsgaard</a>.</p>
+
 					</footer>
 
 			</div>
