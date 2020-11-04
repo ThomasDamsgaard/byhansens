@@ -126,8 +126,8 @@
 									Her er alt lavet på naturlige ingredienser, der er til at forstå.
 								</p>
 								<ul class="icons">
-									<li><a href="https://www.facebook.com/byhansens/" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
-									<li><a href="https://www.instagram.com/by.hansens/" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="https://www.facebook.com/byhansens/" class="icon fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
+									<li><a href="https://www.instagram.com/by.hansens/" class="icon fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
 								</ul>
 							</div>
 						</div>
