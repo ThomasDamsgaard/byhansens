@@ -11,7 +11,7 @@
 		  gtag('config', 'G-0XVHWKKGDM');
 		</script>
 
-		<title>Chokolade ByHansens</title>
+		<title>ByHansens</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<meta name="csrf-token" content="{{ csrf_token() }}">
@@ -237,6 +237,20 @@
 								</div>
 								<div>
 									<p>Når du nyder en Chickpea Cube med Pistacie er det smagen af det velkendte og det eksotiske, der mødes i skøn harmoni til glæde for dine sanser. Et herligt stykke hverdagskonfekture, som du roligt kan spise en mere af.</p>
+								</div>
+								<hr>
+								<div class="center">
+									<div>
+										<span class="image"><img src="{{ asset('assets/img/kanel.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<div class="center">
+											<div>
+												<h3><u>Kanel</u></h3>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div>
+									<p>Skynd dig at hapse en Chickpea Cube med Kanel, mens du kan, for de kommer nemlig kun i en LIMITED EDITION. Det er smagen af jul forklædt mellem kikærter og den fantastiske, cremede konsistens, der kendetegner vores Chickpea Cubes. Et herligt stykke hverdagskonfekture, som du roligt kan spise en mere af.</p>
 								</div>
 							</article>
 						<!-- Produkter -->
