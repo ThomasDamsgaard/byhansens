@@ -329,8 +329,6 @@
 											Benjamin Hansen
 											<br>
 											Stifter
-											<br>
-											Salgsansvarlig
 										</p>
 									</div>
 									<div>
