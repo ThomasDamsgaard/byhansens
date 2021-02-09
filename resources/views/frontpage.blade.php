@@ -185,10 +185,26 @@
 								</h2>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/natural.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image">
+											<a 
+											href="https://byhansens.myshopify.com/products/original-3-stk-chickpea-cubes?variant=32614128451646"
+											target="_blank" 
+											>
+												<img src="{{ asset('assets/img/plain.jpg') }}" alt="" style="max-width:250px;"/>
+											</a>
+										</span>
 										<div class="center">
 											<div>
-												<h3><u>Original</u></h3>
+												<h3>
+													<u>
+														<a 
+														href="https://byhansens.myshopify.com/products/original-3-stk-chickpea-cubes?variant=32614128451646"
+														target="_blank"
+														>
+															Original
+														</a>
+													</u>
+												</h3>
 											</div>
 										</div>
 									</div>
@@ -199,10 +215,26 @@
 								<hr>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/mint.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image">
+											<a 
+											href="https://byhansens.myshopify.com/products/mint-3-stk-chickpea-cubes?variant=32614128451646"
+											target="_blank" 
+											>
+												<img src="{{ asset('assets/img/mint.jpg') }}" alt="" style="max-width:250px;"/>
+											</a>
+										</span>
 										<div class="center">
 											<div>
-												<h3><u>Mint</u></h3>
+												<h3>
+													<u>
+														<a 
+														href="https://byhansens.myshopify.com/products/mint-3-stk-chickpea-cubes?variant=32614128451646"
+														target="_blank"
+														>
+															Mint
+														</a>
+													</u>
+												</h3>
 											</div>
 										</div>
 									</div>
@@ -213,10 +245,26 @@
 								<hr>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/orange.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image">
+											<a 
+											href="https://byhansens.myshopify.com/products/orange-3-stk-chickpea-cubes?variant=32614128451646"
+											target="_blank" 
+											>
+												<img src="{{ asset('assets/img/orange.jpg') }}" alt="" style="max-width:250px;"/>
+											</a>
+										</span>
 										<div class="center">
 											<div>
-												<h3><u>Orange</u></h3>
+												<h3>
+													<u>
+														<a 
+														href="https://byhansens.myshopify.com/products/kanel-3-stk-chickpea-cubes?variant=32614128451646"
+														target="_blank"
+														>
+															Orange
+														</a>
+													</u>
+												</h3>
 											</div>
 										</div>
 									</div>
@@ -227,10 +275,25 @@
 								<hr>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/pistachie.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image">
+											<a 
+											href="https://byhansens.myshopify.com/products/pistacie-3-stk-chickpea-cubes?variant=32614128451646"
+											target="_blank" 
+											>
+												<img src="{{ asset('assets/img/pistachie.jpg') }}" alt="" style="max-width:250px;"/>
+											</a>
+										</span>
 										<div class="center">
 											<div>
-												<h3><u>Pistacie</u></h3>
+												<h3>
+													<u>
+														<a 
+														href="https://byhansens.myshopify.com/products/pistacie-3-stk-chickpea-cubes?variant=32502560391230"
+														target="_blank">
+															Pistacie
+														</a>
+													</u>
+												</h3>
 											</div>
 										</div>
 									</div>
@@ -241,10 +304,26 @@
 								<hr>
 								<div class="center">
 									<div>
-										<span class="image"><img src="{{ asset('assets/img/kanel.jpg') }}" alt="" style="max-width:250px;"/></span>
+										<span class="image">
+											<a 
+											href="https://byhansens.myshopify.com/products/kanel-3-stk-chickpea-cubes?variant=32614128451646"
+											target="_blank" 
+											>
+												<img src="{{ asset('assets/img/kanel.jpg') }}" alt="" style="max-width:250px;"/>
+											</a>
+										</span>
 										<div class="center">
 											<div>
-												<h3><u>Kanel</u></h3>
+												<h3>
+													<u>
+														<a 
+														href="https://byhansens.myshopify.com/products/kanel-3-stk-chickpea-cubes?variant=32614128451646"
+														target="_blank"
+														>
+															Kanel
+														</a>
+													</u>
+												</h3>
 											</div>
 										</div>
 									</div>
