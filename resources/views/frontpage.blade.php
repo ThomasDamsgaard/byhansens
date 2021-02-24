@@ -166,7 +166,7 @@
 									<span><b><i>Flormelis</i></b></span> er en helt fint malet form af sukkeren, der udvindes fra de danske sukkerroer fra Lolland og Falster. Med et indhold på omkring 2% stivelse er det enormt effektivt til at forhindre massen i vores Chickpea Cubes i at klumpe – og så bidrager det naturligvis med en mild sødme til produktet!
 								</p>
 								<p>
-									<span><b><i>Kokosolie</i></b></span> er med til at give vores Chickpea Cubes deres bløde struktur, idet den smeltede olie nemt fordeles og effektivt holder sammen på alle råvarerne, efterhånden som massen får lov til at køle af.
+									<span><b><i>Rapsolie</i></b></span> er med til at give vores Chickpea Cubes deres bløde struktur, idet den nemt fordeles og effektivt holder sammen på alle råvarerne, efterhånden som massen får lov til at sætte sig.
 								</p>
 								<p>
 									<span><b><i>Mørk chokolade</i></b></span> må være en lille bid af himmerige! Vi bruger chokolade med 59,5% kakao – fyldt med gode egenskaber som vitaminer, mineraler og antioxidanter. Og så går smagen helt eminent sammen med resten af vores råvarer for at skabe en fuldendt nydelse fyldt med nærende indhold.
